@@ -62,7 +62,7 @@ Depuis sa création, HebergAll s’est donné pour mission de fournir une infras
       <br />
       <span style="font-size:16px;"><b>Noé M.</b></span>
       <br />
-      <sub>Administrateur</sub>
+      <sub>Vice-Président</sub>
     </td>
   </tr>
 </table>
